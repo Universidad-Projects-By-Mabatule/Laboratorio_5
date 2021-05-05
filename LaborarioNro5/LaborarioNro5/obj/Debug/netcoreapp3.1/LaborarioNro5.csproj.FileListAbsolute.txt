@@ -1,0 +1,13 @@
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\bin\Debug\netcoreapp3.1\LaborarioNro5.exe
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\bin\Debug\netcoreapp3.1\LaborarioNro5.deps.json
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\bin\Debug\netcoreapp3.1\LaborarioNro5.runtimeconfig.json
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\bin\Debug\netcoreapp3.1\LaborarioNro5.runtimeconfig.dev.json
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\bin\Debug\netcoreapp3.1\LaborarioNro5.dll
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\bin\Debug\netcoreapp3.1\LaborarioNro5.pdb
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\obj\Debug\netcoreapp3.1\LaborarioNro5.csprojAssemblyReference.cache
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\obj\Debug\netcoreapp3.1\LaborarioNro5.AssemblyInfoInputs.cache
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\obj\Debug\netcoreapp3.1\LaborarioNro5.AssemblyInfo.cs
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\obj\Debug\netcoreapp3.1\LaborarioNro5.csproj.CoreCompileInputs.cache
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\obj\Debug\netcoreapp3.1\LaborarioNro5.dll
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\obj\Debug\netcoreapp3.1\LaborarioNro5.pdb
+C:\Users\ALIENWARE M17 R3\source\repos\LaborarioNro5\LaborarioNro5\obj\Debug\netcoreapp3.1\LaborarioNro5.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+Un grupo de amigos que juegan CSGO(Counter-Strike: Global Offensive)
+quiere mejorar por lo tanto crearon dos maneras de juego que dependen
+del AIM(puntería) y el RECOIL( retroceso de un arma de fuego) donde
+tienen un juego de ataque y defensa ,lo que ellos quieren es un programa
+donde separe su metodo de juego donde si se juega en modo ataque tiene
+que estar de manera desendente el AIM pero si estan en defensa tienen que 
+tener el RECOIL de manera desndente el orden de los jugadores el equipo solo
+consta de 5 jugadores
+
+
+Solucion del caso
+Para este ejemplo se utilizo the strategy pattern porque de manera facil se puede 
+intercambiar la manera de juego como tambien aumentar mas estrategias cuando el 
+equipo gane mas experiencia cumpliendo SOLID que esta abierta para su extension pero
+cerrado para su modificacion
